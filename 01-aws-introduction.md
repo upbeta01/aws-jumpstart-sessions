@@ -9,7 +9,7 @@ Knowing about your local AWS Community...
 <br>
 
 
-AWSUGDVO (AWS-User-Group-Davao) is an initiative of AWS-User-Group-Philippines to expand the reach of learning of Amazon Web Services to the areas of Mindanao, Philippines. The main objective of this community is to gather everyone who is interested in adapting Amazon Web Services for their work, side projects and personal experimentations/explorations.
+AWSUGDVO (AWS-User-Group-Davao) is an initiative of AWS-User-Group-Philippines to expand the reach of learning of Amazon Web Services in the areas of Mindanao, Philippines. The main objective of this community is to gather everyone who is interested in adapting Amazon Web Services for their work, side projects and personal experimentations/explorations.
 
 <br>
 AWSUGDVO aims to grow the knowledge of every individual about the cloud and why they should embrace it, specially the cloud services offered by Amazon Web Services. Sharing best practices and discuss common use-cases tackled in different aspect of business.
